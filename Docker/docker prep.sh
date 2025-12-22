@@ -356,7 +356,7 @@ Docker For Windows Container Types:
 Windows Server Core: Windows container on native windows server core
 Hyper-V Isolation: Windows container on an isolated hyper-v kernel
 References and Links:
-ocker on Windows Documentation: https://docs.docker.com/docker-for-windows/
+Docker on Windows Documentation: https://docs.docker.com/docker-for-windows/
 Docker For Windows Download: https://www.docker.com/docker-windows
 Docker Toolbox Download: https://www.docker.com/products/docker-toolbox
 
